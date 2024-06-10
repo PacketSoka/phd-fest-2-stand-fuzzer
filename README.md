@@ -11,6 +11,12 @@ The event span four days, and so some snippets were tweaked at night
 to mitigate answer sharing. Sorry (not really) about that, free branded 
 socks lovers, lol.
 
+Please note that the input data must contain:
+
+- Latin characters,
+- Numbers,
+- Comma
+
 `src` dir contains the snippets as python modules - you can run them from a command line. Most modules 
 have inside a string that should crash them.
 
